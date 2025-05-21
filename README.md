@@ -3,7 +3,7 @@
 Website statis responsif untuk perusahaan asuransi, dibuat menggunakan HTML, CSS (Bootstrap), dan JavaScript. Desain modern, ringan, dan cocok digunakan untuk menampilkan layanan asuransi secara profesional.
 
 ## 🔗 Demo
-[https://dhiljaa.github.io/Asuransi_Website](https://dhiljaa.github.io/Asuransi_Website) *(jika dihosting di GitHub Pages)*
+[https://dhiljaa.github.io/Asuransi_Website](https://amania-asuransi.vercel.app/) *(jika dihosting di GitHub Pages)*
 
 ## 📁 Fitur Halaman
 
